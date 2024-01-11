@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Competitions
+  link: /competitions.html
+- name: Certifications
+  link: /certifications.html
+- name: Contacts
+  link: /contacts.html
