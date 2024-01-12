@@ -2,6 +2,6 @@
 layout: default
 ---
 
-### **Contacts:**
+# **Contacts**
 
-![LinkedIn](/assets/images/LI-In-Bug.png)[**LinkedIn**]({{ site.li_in }})
+Let's get in touch on [**LinkedIn**]({{ site.li_in }})!
